@@ -1,0 +1,13 @@
+.header-top {
+    background: #f0f2f5;
+}
+.header-top-container {
+    max-width: 1140px;
+    width: 100%;
+    margin:  0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}

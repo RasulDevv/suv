@@ -1,0 +1,16 @@
+.location-name {
+    text-align: center;
+}
+
+.location-date {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.location-date-input {
+    width: 200px;
+    font-size: 20px;
+}

@@ -1,0 +1,29 @@
+{
+    "welcome": "Добро пожаловать",
+    "description": "Это пример приложения.",
+    "header-top-desc": "Мониторинг качества воды",
+    "searchbar-input-placeholder": "поиск местоположения...",
+    "nav-list-home": "Главная",
+    "nav-list-sensors": "О датчиках",
+    "nav-list-us": "О нас",
+    "nav-list-contact": "Контакт",
+    "about-sensors-table-sensor": "датчик",
+    "about-sensors-table-accuracy": "точность",
+    "about-sensors-table-range": "диапазон",
+    "about-sensors-table-normalRange": "нормальный диапазон",
+    "footer-bottom-desc": "«2024© ТГТУ ИЕА ТПЕ «AQUATECH». все права защищены»",
+
+    
+    "01": "Январь",
+    "02": "Февраль",
+    "03": "Март",
+    "04": "Апрель",
+    "05": "Май",
+    "06": "Июнь",
+    "07": "Июль",
+    "08": "Август",
+    "09": "Сентябрь",
+    "10": "Октябрь",
+    "11": "Ноябрь",
+    "12": "Декабрь"
+}

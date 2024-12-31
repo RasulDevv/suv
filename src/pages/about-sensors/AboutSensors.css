@@ -1,0 +1,49 @@
+.about-sensors-page {
+    max-width: 1140px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.about-sensors-table td, .about-sensors-table th {
+    padding: 5px 15px;
+    text-align: left;
+}
+
+.about-sensors-table {
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.about-sensors-table th, .about-sensors-table td {
+    border-left: 1px solid #000;
+}
+
+.about-sensors-table th:first-child, .about-sensors-table td:first-child {
+    border-left: none;
+}
+
+.about-sensor-link {
+    text-decoration: underline;
+}
+
+.about-sensor {
+    line-height: 2;
+    padding-top: 30px;
+}
+
+.about-sensor > h2 {
+    color: #7f4dff;
+}
+
+.about-sensor ol {
+    list-style: decimal;
+    padding-left: 8vw;
+}
+
+@media (max-width: 768px) {
+    .about-sensors-table td, .about-sensors-table th {
+        padding: 2.5px 7.5px;
+        font-size: 10px;
+    }
+}

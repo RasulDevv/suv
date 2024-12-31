@@ -1,0 +1,29 @@
+{
+    "welcome": "Welcome",
+    "description": "This is a sample application.",
+    "header-top-desc": "Water quality monitoring",
+    "searchbar-input-placeholder": "search location...",
+    "nav-list-home": "Home",
+    "nav-list-sensors": "About sensors",
+    "nav-list-us": "About us",
+    "nav-list-contact": "Contact",
+    "about-sensors-table-sensor": "sensor",
+    "about-sensors-table-accuracy": "accuracy",
+    "about-sensors-table-range": "range",
+    "about-sensors-table-normalRange": "normal range",
+    "footer-bottom-desc": "«2024© TSTU EAE TOEEP «AQUATECH». all rights reserved»",
+
+
+    "01": "January",
+    "02": "February",
+    "03": "March",
+    "04": "April",
+    "05": "May",
+    "06": "June",
+    "07": "July",
+    "08": "August",
+    "09": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+}

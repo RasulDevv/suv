@@ -1,0 +1,31 @@
+.home-page {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.home-locations {
+    padding-top: 10px;
+}
+
+.home-locations-link {
+    line-height: 1.5;
+}
+
+.home-images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.home-image-a3 {
+    margin:  0 auto;
+}
+
+@media (max-width: 768px) {
+    .home-image {
+        width: 100%;
+        object-fit: contain;
+    }
+}

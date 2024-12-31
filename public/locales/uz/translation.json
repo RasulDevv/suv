@@ -1,0 +1,29 @@
+{
+    "welcome": "Xush kelibsiz",
+    "description": "Bu namuna dastur.",
+    "header-top-desc": "Suv sifati monitoringi",
+    "searchbar-input-placeholder": "manzilni izlash...",
+    "nav-list-home": "Asosiy",
+    "nav-list-sensors": "Datchiklar haqida",
+    "nav-list-us": "Biz haqimizda",
+    "nav-list-contact": "Aloqa",
+    "about-sensors-table-sensor": "datchik",
+    "about-sensors-table-accuracy": "aniqligi",
+    "about-sensors-table-range": "daipazon",
+    "about-sensors-table-normalRange": "normal daipazon",
+    "footer-bottom-desc": "«2024© TDTU EAM EAICHT «AQUATECH». Barcha huquqlar himoyalangan»",
+
+
+    "01": "Yanvar",
+    "02": "Fevral",
+    "03": "Mart",
+    "04": "Aprel",
+    "05": "May",
+    "06": "Iyun",
+    "07": "Iyul",
+    "08": "Avgust",
+    "09": "Sentabr",
+    "10": "Oktabr",
+    "11": "Noyabr",
+    "12": "Dekabr"
+}

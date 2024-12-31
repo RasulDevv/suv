@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "inter";
+    src: url(../../fonts/inter/Inter_18pt-Regular.ttf);
+}
+@font-face {
+    font-family: "inter-light";
+    src: url(../../fonts/inter/Inter_18pt-Light.ttf);
+}
+@font-face {
+    font-family: "inter-bold";
+    src: url(../../fonts/inter/Inter_24pt-Bold.ttf);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "inter";
+}
+
+#root {
+    min-height: 100vh;
+}
+
+.wrapper {
+    min-height: 86vh;
+}
+
+
+
+
+/* ********************************************* */
+.x-symbol {
+    position: relative;
+    width: 35px; 
+    height: 35px; 
+  }
+
+  .x-symbol::before,
+  .x-symbol::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 5px; 
+    background-color: #9e9e9e; 
+    transform-origin: center;
+  }
+
+  .x-symbol::before {
+    transform: rotate(45deg); 
+  }
+
+  .x-symbol::after {
+    transform: rotate(-45deg); 
+  }
