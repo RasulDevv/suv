@@ -38,7 +38,7 @@ export default function Searchbar() {
         setVal(value)
         for (const obj of locations) {
             for (const lang in obj.name) {
-                if (obj.name[lang].toLowerCase().includes(value) && value) {
+                if (obj.name[lang].toLowerCase().includes(value.toLowerCase()) && value) {
                     setList(prev => [...prev, {name: obj.name[lang], index: obj.index}])
                 }
             }
